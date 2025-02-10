@@ -7,7 +7,7 @@
 
 I'm a Data Scientist & Data Analyst with a strong foundation in Machine Learning, Data Engineering, and Big Data Analytics. I have a postgraduate degree in Advanced Computer Science from the University of Manchester and hands-on experience working with Python, SQL, R, and cloud-based data solutions (AWS, Apache Spark, Hadoop).
 
-I specialize in analyzing, visualizing, and optimizing data workflows to drive business decisions. I also have experience in building scalable ETL pipelines and working with large datasets.
+I specialize in analyzing, visualizing, and optimizing data workflows to drive business decisions. I also have project experience in building scalable ETL pipelines and working with large datasets.
 
 
 
